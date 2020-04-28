@@ -161,3 +161,4 @@ $RECYCLE.BIN/
 .gradle/buildOutputCleanup/buildOutputCleanup.lock
 .gradle/buildOutputCleanup/outputFiles.bin
 
+/build/
