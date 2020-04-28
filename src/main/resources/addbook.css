@@ -1,0 +1,13 @@
+.jfx-button {
+    -fx-background-color: #1976D2;
+    -fx-text-fill: white;
+}
+.jfx-button:hover{
+    -fx-background-color: #388E3C;
+}
+.cancelButton{
+    -fx-background-color: #1963c6;
+}
+.cancelButton:hover{
+    -fx-background-color: #e56865;
+}
