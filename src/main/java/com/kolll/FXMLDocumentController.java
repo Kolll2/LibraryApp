@@ -18,7 +18,7 @@ public class FXMLDocumentController implements Initializable {
     @FXML
     private JFXTextField author;
     @FXML
-    private JFXTextField publicher;
+    private JFXTextField publisher;
     @FXML
     private JFXButton saveButton;
     @FXML
