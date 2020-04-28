@@ -1,4 +1,4 @@
-package com.kolll;
+package com.kolll.ui.addbook;
 
 import com.jfoenix.controls.JFXButton;
 import com.jfoenix.controls.JFXTextField;
